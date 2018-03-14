@@ -1,0 +1,13 @@
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\bin\Debug\pacman2.exe.config
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\bin\Debug\pacman2.exe
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\bin\Debug\pacman2.pdb
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.csprojResolveAssemblyReference.cache
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.Form1.resources
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.Properties.Resources.resources
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.csproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.exe
+c:\users\osama\documents\visual studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.pdb
+C:\Users\Osama\Documents\Visual Studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.Form2.resources
+C:\Users\Osama\Documents\Visual Studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.highscore.resources
+C:\Users\Osama\Documents\Visual Studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.game.resources
+C:\Users\Osama\Documents\Visual Studio 2012\Projects\pacman2\pacman2\obj\Debug\pacman2.PlayerName.resources
